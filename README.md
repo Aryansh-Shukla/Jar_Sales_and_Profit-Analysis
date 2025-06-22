@@ -18,12 +18,11 @@ To analyze order, product, and target data to:
 
 ```bash
 jar-sales-analysis/
-├── data/
-│   ├── orders.csv             # Raw orders data
-│   ├── order_details.csv      # Raw order‐line details
-│   └── targets.csv            # Monthly sales targets
-├── analysis.ipynb             # Jupyter notebook with full data pipeline, analysis, and plots
-├── solution.pdf               # Written summary of insights & business recommendations
+|── orders.csv              # Raw orders data
+│── order_details.csv       # Raw order‐line details
+│── targets.csv             # Monthly sales targets
+├── Jar_Assignment.ipynb    # Jupyter notebook with full data pipeline, analysis, and plots
+├── solution.pdf            # Written summary of insights & business recommendations
 └── README.md                  # Project overview and instructions
 ```
 ---
